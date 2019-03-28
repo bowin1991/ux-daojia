@@ -3,9 +3,12 @@
   font-weight:400;
   font-style:normal;
   font-size:13px;
+  letter-spacing:normal;
   color:#333333;
+  vertical-align:none;
   text-align:center;
   line-height:normal;
+  text-transform:none;
 }
 .box_2 {
 }
@@ -68,6 +71,11 @@
 ._文本段落 {
   text-align:left;
 }
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
 ._流程形状 {
 }
 .sticky_1 {
@@ -75,3 +83,4 @@
 }
 ._形状 {
 }
+textarea, select, input, button { outline: none; }
