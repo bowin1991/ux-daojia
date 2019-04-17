@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:-0px;
-  width:1200px;
+  width:1400px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -15,14 +15,14 @@
 #u51 {
   position:fixed;
   left:50%;
-  margin-left:-600px;
+  margin-left:-700px;
   top:0px;
 }
 #u51_state0 {
   position:relative;
   left:0px;
   top:0px;
-  width:1200px;
+  width:1400px;
   height:64px;
   background-image:none;
 }
@@ -39,7 +39,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1200px;
+  width:1400px;
   height:64px;
   background:inherit;
   background-color:rgba(46, 84, 235, 1);
@@ -54,7 +54,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1200px;
+  width:1400px;
   height:64px;
 }
 #u52_text {
@@ -4954,7 +4954,7 @@
   position:relative;
   left:0px;
   top:0px;
-  width:918px;
+  width:974px;
   height:609px;
   background-image:none;
 }
@@ -4971,7 +4971,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:918px;
+  width:974px;
   height:609px;
 }
 #u177_input {
@@ -4979,7 +4979,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:918px;
+  width:974px;
   height:609px;
   overflow:auto;
 }

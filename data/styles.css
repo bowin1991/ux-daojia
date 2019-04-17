@@ -29,6 +29,8 @@
   font-size:32px;
   text-align:left;
 }
+._16正文文字 {
+}
 ._二级标题 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
@@ -67,6 +69,14 @@
   font-size:14px;
   text-align:left;
 }
+._1616 {
+  font-family:'PingFangSC-Light', 'PingFang SC Light', 'PingFang SC';
+  font-weight:200;
+  font-style:normal;
+  font-size:16px;
+  color:#797979;
+  text-align:left;
+}
 ._文本段落 {
   text-align:left;
 }
@@ -90,6 +100,10 @@
 }
 .line {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .shape {
 }
 ._36号字_顶部标题、大按钮、弹窗提示主标题_ {
@@ -101,4 +115,6 @@
 }
 .paragraph {
   text-align:left;
+}
+.image {
 }
